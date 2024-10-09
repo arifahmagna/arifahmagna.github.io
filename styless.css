@@ -16,8 +16,7 @@ body {
 }
 
 .profile-pic {
-    width: 150px;
-    border-radius: 50%;
+    width: 100px; /* Ubah ukuran sesuai preferensi, misalnya 80px atau 100px */
     margin: 0 auto;
     display: block;
 }
@@ -32,9 +31,11 @@ section {
 }
 
 h2 {
-    color: #333333;
-    border-bottom: 2px solid #eeeeee;
-    padding-bottom: 5px;
+    color: #ffffff; /* Ubah warna teks menjadi putih */
+    background-color: #add8e6; /* Ganti ini dengan warna kalem yang diinginkan, misalnya biru muda */
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
 }
 
 ul {
@@ -46,4 +47,5 @@ ul li {
     background: #eeeeee;
     margin-bottom: 5px;
     padding: 5px;
+    border-radius: 5px;
 }
