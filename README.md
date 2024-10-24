@@ -1,1 +1,0 @@
-# arifahmagna.github.io
